@@ -75,7 +75,7 @@ const AboutMe = () => {
                             <p className="slide-up-and-fade">
                                 I’m <strong>Pratik Naik</strong>, a Software Engineer based in New York City 
                                 with a passion for <strong>Deep Learning</strong> and <strong>AI-powered applications</strong>. 
-                                With a strong academic foundation — including an MS in Computer Science and a BE in Computer Engineering — 
+                                With a strong academic foundation, currently pursuing a Master of Science degree in Computer Science from Pace University and holds a Bachelor of Engineering in Computer Engineering from University of Mumbai. 
                                 I specialize in developing intelligent systems that bridge the gap between machine learning and real-world usability.
                             </p>
                             <p className="mt-3 slide-up-and-fade">

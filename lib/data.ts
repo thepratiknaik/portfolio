@@ -282,7 +282,7 @@ export const PROJECTS: IProject[] = [
           <li>📈 Visualizations: Created insights using word clouds and sentiment distribution plots</li>
         </ul>`,
 
-        role: `As the Team Lead, I:<br/>
+        role: `As a group project, we:<br/>
         - Collected and preprocessed a large dataset of Hinglish text from social media and online forums.<br/>
         - Implemented text normalization techniques to handle code-mixing challenges.<br/>
         - Developed a machine learning model using Scikit-learn to classify sentiments into positive, negative, and neutral categories.<br/>
@@ -348,7 +348,7 @@ export const PROJECTS: IProject[] = [
           title: 'Diabetes Prediction using Support Vector Machine Algorithm',
           slug: 'diabetes-prediction-svm',
           year: 2023,
-          liveUrl: '', // Add GitHub or deployment URL if available
+          liveUrl: 'https://github.com/thepratiknaik/diabetesPrediction', // Add GitHub or deployment URL if available
           techStack: [
             'Python',
             'Pandas',
@@ -358,12 +358,10 @@ export const PROJECTS: IProject[] = [
             'SVM',
             'SQL',
           ],
-          thumbnail: '/projects/thumbnail/diabetes-prediction.webp', // Update with actual path
-          longThumbnail: '/projects/long/diabetes-prediction.webp',  // Update with actual path
+          thumbnail: '/projects/thumbnail/diabetes-prediction.jpg', // Update with actual path
+          longThumbnail: '/projects/long/diabetes-prediction.jpg',  // Update with actual path
           images: [
-            '/projects/images/diabetes-1.png',
-            '/projects/images/diabetes-2.png',
-            '/projects/images/diabetes-3.png',
+            '/projects/images/diabetes-prediction.jpg',
           ],
           description: `
             A machine learning-based diagnostic system that predicts the presence of Diabetes Mellitus (DM) using Support Vector Machines (SVM).<br/><br/>
@@ -392,7 +390,7 @@ export const PROJECTS: IProject[] = [
       title: 'ADAM (Ailment Detection and Medicine Suggestion App)',
       slug: 'adam-health-app',
       year: 2019,
-      liveUrl: '', // You can add a GitHub or APK link if available
+      liveUrl: 'https://github.com/thepratiknaik/Adam', // You can add a GitHub or APK link if available
       techStack: [
         'Android',
         'Java',
@@ -440,7 +438,7 @@ export const MY_EXPERIENCE = [
     {
         title: 'Full Stack Developer',
         company: 'Ionio LLC',
-        duration: 'August 2024 - July 2024',
+        duration: 'August 2023 - July 2024',
     },
     {
         title: 'Summer Intern',
