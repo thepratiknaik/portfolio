@@ -170,6 +170,20 @@ export const MY_STACK = {
             icon: '/logo/mongodb.svg',
         },
     ],
+    mobile_development: [
+        {
+            name: 'Flutter',
+            icon: '/logo/flutter.svg',
+        },
+        {
+            name: 'Kotlin',
+            icon: '/logo/kotlin.svg',
+        },
+        {
+            name: 'Swift',
+            icon: '/logo/swift.svg',
+        },
+    ],
     tools: [
         {
             name: 'Git',
